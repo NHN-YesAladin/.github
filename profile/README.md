@@ -9,7 +9,7 @@
 - [YesAladin Coupon Server Project](https://github.com/NHN-YesAladin/yesaladin_coupon)
 - [YesAladin Spring Cloud Gateway Server Project](https://github.com/NHN-YesAladin/yesaladin_gateway)
 - [YesAladin Batch Server Project](https://github.com/NHN-YesAladin/yesaladin_batch)
-- [YesAladin Spirng Cloud Config Server Project](https://github.com/NHN-YesAladin/yesaladin_config)
+- [YesAladin Spring Cloud Config Server Project](https://github.com/NHN-YesAladin/yesaladin_config)
 - [YesAladin Delivery Server Project](https://github.com/NHN-YesAladin/yesaladin_delivery)
 
 ### 공통화 모듈 프로젝트
