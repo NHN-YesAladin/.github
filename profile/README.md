@@ -1,6 +1,6 @@
 ## 📌 YesAladin Project Info
-- website: https://www.yesaladin.shop/
-- API Docs: http://133.186.247.95/docs/
+- Website: https://www.yesaladin.shop/
+- Shop Server API Docs: http://133.186.247.95/docs/
 
 ### 주요 프로젝트
 - [YesAladin Front Server Project](https://github.com/NHN-YesAladin/yesaladin_front)
