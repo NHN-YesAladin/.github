@@ -9,7 +9,7 @@
 - [YesAladin Coupon Server Project](https://github.com/NHN-YesAladin/yesaladin_coupon)
 - [YesAladin Spring Cloud Gateway Server Project](https://github.com/NHN-YesAladin/yesaladin_gateway)
 - [YesAladin Batch Server Project](https://github.com/NHN-YesAladin/yesaladin_batch)
-- [YesAladin Socket Server Project](https://github.com/NHN-YesAladin/yesaladin_socket)
+- [YesAladin Web Socket Server Project](https://github.com/NHN-YesAladin/yesaladin_socket)
 - [YesAladin Spring Cloud Config Server Project](https://github.com/NHN-YesAladin/yesaladin_config)
 - [YesAladin Delivery Server Project](https://github.com/NHN-YesAladin/yesaladin_delivery)
 
