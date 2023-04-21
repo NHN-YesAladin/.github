@@ -2,6 +2,8 @@
 - Website: https://www.yesaladin.shop/
 - Shop Server API Docs: http://133.186.247.95/docs/
 
+(현재 모든 서비스는 종료되었습니다.)
+
 ### 주요 프로젝트
 - [YesAladin Front Server Project](https://github.com/NHN-YesAladin/yesaladin_front)
 - [YesAladin Shop API Server Project](https://github.com/NHN-YesAladin/yesaladin_shop)
