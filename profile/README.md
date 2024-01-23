@@ -4,6 +4,8 @@
 
 (현재 모든 서비스는 종료되었습니다.)
 
+프로젝트 Repository 전체 private으로 전환합니다. (2024.01.23)
+
 ### 주요 프로젝트
 - [YesAladin Front Server Project](https://github.com/NHN-YesAladin/yesaladin_front)
 - [YesAladin Shop API Server Project](https://github.com/NHN-YesAladin/yesaladin_shop)
