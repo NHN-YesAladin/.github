@@ -25,5 +25,5 @@
 ## Contributors
 
 <a href="https://github.com/NHN-YesAladin/yesaladin_shop/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=NHN-YesAladin/yesaladin_front" alt="yesaladin-front-contributors" />
+  <img src="https://contrib.rocks/image?repo=NHN-YesAladin/yesaladin_shop" alt="yesaladin-shop-contributors" />
 </a>
